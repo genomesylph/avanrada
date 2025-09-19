@@ -1,0 +1,40 @@
+{
+  "name": "ชื่อจริงของคุณ",
+  "title": "ตำแหน่ง/อาชีพ",
+  "profileImage": "URL ของรูปโปรไฟล์ (เช่น รูปจาก Imgur หรือ Google Photos)",
+  "contact": {
+    "email": "youremail@example.com",
+    "phone": "081-123-4567",
+    "linkedin": "https://www.linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourusername"
+  },
+  "summary": "สรุปสั้นๆ เกี่ยวกับตัวคุณ",
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Node.js"
+  ],
+  "experience": [
+    {
+      "title": "ตำแหน่งงาน 1",
+      "company": "บริษัท A",
+      "period": "ม.ค. 2020 - ธ.ค. 2022",
+      "description": "รายละเอียดงาน..."
+    },
+    {
+      "title": "ตำแหน่งงาน 2",
+      "company": "บริษัท B",
+      "period": "ม.ค. 2023 - ปัจจุบัน",
+      "description": "รายละเอียดงาน..."
+    }
+  ],
+  "education": [
+    {
+      "degree": "ปริญญาตรี",
+      "school": "มหาวิทยาลัย XYZ",
+      "year": "2019"
+    }
+  ]
+}
